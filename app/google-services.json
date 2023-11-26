@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "146583121791",
+    "project_id": "afseriemobile",
+    "storage_bucket": "afseriemobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146583121791:android:7606f50b7ce643f374744a",
+        "android_client_info": {
+          "package_name": "github.com.afmobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN3i8DsO45OaM9vbify9H0-GO7HIoI-RM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
